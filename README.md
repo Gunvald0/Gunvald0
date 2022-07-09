@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gunvald0
 - 👀 I’m interested in code breaking testing systems
-- 🌱 I’m currently learning everything 
+- 🌱 I’m currently learning proxymark 3 and Flipper Zero.
 - 💞️ I’m looking to collaborate on private 
 - 📫 How to reach me email me
 
